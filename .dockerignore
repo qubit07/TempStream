@@ -1,0 +1,16 @@
+.git
+.agents
+.codex
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.mypy_cache
+.ruff_cache
+build
+dist
+*.egg-info
+worker/bin
+worker/tmp
