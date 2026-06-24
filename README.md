@@ -36,6 +36,7 @@ Sensor Simulator -> API -> RabbitMQ -> Go Worker -> MongoDB -> Notification Serv
 * Generates sensor values at fixed intervals
 * Simulates IoT devices
 * Sends data via HTTP requests to backend API
+* Build using Python
 
 ---
 
@@ -91,6 +92,7 @@ Example record:
 
 * Sends alerts when thresholds are exceeded
 * Integrates with push notification provider
+* Build using Java
 
 ---
 
